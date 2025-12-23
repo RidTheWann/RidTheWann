@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Ridwan+Gatro;Fullstack+%26+Systems+Engineer;Building+the+WeaR+Ecosystem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There.;I'm+Ridwan+Gatro;Fullstack+%26+Systems+Engineer;Building+the+WeaR+Ecosystem" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Versatile Engineer | Rust • Go • C++ • Python • Web</h3>
+  <h3>Versatile Engineer | Rust • Go • C++ • Python • Web</h3>
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <br/>
 
-<h3 align="center">⚔️ Technical Arsenal</h3>
+<h3 align="center">Technical Arsenal</h3>
 
 <div align="center">
   <p><b>Core & Systems</b></p>
@@ -34,7 +34,7 @@
 
 <br/>
 
-### 🔭 Featured Projects: The WeaR Ecosystem
+<h3>Featured Projects: The WeaR Ecosystem</h3>
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics
+<h3>GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RidTheWann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
@@ -61,7 +61,6 @@
 <br/>
 
 <div align="center">
-  <p><i>Let's connect and build something amazing together!</i></p>
   <a href="https://github.com/RidTheWann">
     <img src="https://img.shields.io/github/followers/RidTheWann?label=Follow&style=social" alt="Follow"/>
   </a>
