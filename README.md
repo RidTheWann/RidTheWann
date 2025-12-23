@@ -1,32 +1,29 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=280&section=header&text=Hello%20World,%20I'm%20RidTheWann&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Building%20the%20Future%20of%20OS,%20AI,%20and%20Interactive%20Worlds&descSize=20&descAlignY=60" alt="Header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=System+Architect;Open+Source+Enthusiast;Building+WeaR+Ai+%26+Synaptic;Unreal+Engine+Developer;Rustacean" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/RidTheWann">
-    <img src="https://img.shields.io/github/followers/RidTheWann?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/RidTheWann?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RidTheWann?style=social" alt="GitHub Stars" />
-  </a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+RidTheWann;Software+Architect;Open+Source+Enthusiast;Building+The+Future" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <h3>🚀 High-Performance Software Engineer</h3>
+  <p>
+    <em>"Talk is cheap. Show me the code."</em>
+  </p>
+</div>
+
+<p align="center">
+  <a href="https://github.com/RidTheWann">
+    <img src="https://komarev.com/ghpvc/?username=RidTheWann&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I am a developer driven by ambitious ideas, focusing on **System Architecture**, **Artificial Intelligence**, and **Game Development**. I don't just write code; I architect ecosystems. My goal is to bridge the gap between platforms and create universal solutions.
+I am a developer focused on building scalable systems and ambitious open-source projects. My passion lies in pushing the boundaries of what's possible with code, from low-level systems to high-level architecture.
 
-- 🔭 I’m currently working on **WeaR Ai** (Next-gen AI Assistant) and **Synaptic** (MCP Server Manager).
-- 🌱 I’m currently exploring **Kernel Development** for a universal operating system.
-- 🎮 I’m developing immersive experiences using **Unreal Engine 5**.
-- ⚡ **Fun fact:** I believe in a future where one OS runs everything—seamlessly.
+- 🔭 I’m currently working on **Advanced System Architecture**.
+- 🌱 I’m currently learning **Kernel Development & AI Integration**.
+- ⚡ Fun fact: I prefer efficient code over complex dependencies.
 
 ---
 
@@ -34,42 +31,57 @@ I am a developer driven by ambitious ideas, focusing on **System Architecture**,
 
 <div align="center">
 
-| Core & Systems | AI & Data | App Development | Tools & DevOps |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=rust,cpp,c" width="50" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" width="50" /> | <img src="https://skillicons.dev/icons?i=react,tauri,nextjs,ts" width="50" /> | <img src="https://skillicons.dev/icons?i=linux,docker,git,unreal" width="50" /> |
-| **Rust / C++** | **AI / LLMs** | **Tauri / React** | **UE5 / Linux** |
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 WeaR Ai** | An open-source AI assistant designed to rival major models with modular architecture. | `Python` `LLM` `Neural Networks` |
-| **⚡ Synaptic** | A cross-platform GUI for managing Model Context Protocol (MCP) servers efficiently. | `Rust` `Tauri v2` `React` |
-| **🌌 Universal OS** | *(Concept)* A unified kernel architecture capable of running Windows, Linux, & Android apps natively. | `C` `Kernel Dev` `Assembly` |
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidTheWann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3399FF&icon_color=8E2DE2" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidTheWann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3399FF" height="160" alt="Languages" />
+  <a href="https://github.com/RidTheWann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RidTheWann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  </a>
+  <a href="https://github.com/RidTheWann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidTheWann&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidTheWann&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5500" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidTheWann&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
 
+### 🏆 Pinned Projects
+
+| **Project Alpha** | **Project Beta** |
+| :---: | :---: |
+| _An innovative solution for X_ | _A powerful tool for Y_ |
+| ![Rust](https://img.shields.io/badge/-Rust-black) | ![Python](https://img.shields.io/badge/-Python-blue) |
+
+---
+
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <p>Let's connect and build something incredible.</p>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact-Me-3399FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
