@@ -3,16 +3,9 @@
 </div>
 
 <div align="center">
-
-  [![Visitor Count](https://profile-counter.glitch.me/RidTheWann/count.svg)](https://github.com/RidTheWann)
-  [![GitHub followers](https://img.shields.io/github/followers/RidTheWann?label=Follow&style=social)](https://github.com/RidTheWann)
-
   <h3>Systems Programmer & Full Stack Developer</h3>
   <p>Building high-performance tools, emulators, and scalable web applications.</p>
-
-  <a href="https://github.com/RidTheWann?tab=repositories">
-    <img src="https://img.shields.io/badge/View_My_Work-EF2D5E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <br />
 </div>
 
 ---
@@ -31,7 +24,7 @@ Saat ini saya sedang mengembangkan ekosistem **WeaR**, sebuah rangkaian software
 
 ### Tech Stack
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -58,31 +51,3 @@ Saat ini saya sedang mengembangkan ekosistem **WeaR**, sebuah rangkaian software
 | **[WeaR-Defender](https://github.com/RidTheWann/WeaR-Defender)** | Advanced system defense/utility tool. | `Rust` `Security` |
 | **[WeaR-AI](https://github.com/RidTheWann/WeaR-AI)** | Artificial Intelligence implementation. | `Python` `AI` |
 | **[WeaR-Synaptic](https://github.com/RidTheWann/WeaR-Synaptic)** | High-speed connection/logic handler. | `TypeScript` |
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidTheWann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidTheWann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RidTheWann&theme=gitdimmed&no-frame=true&column=7" />
-</div>
-
----
-
-<div align="center">
-  <p>Let's connect.</p>
-  
-  <a href="mailto:emailmu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/username-linkedin-kamu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
